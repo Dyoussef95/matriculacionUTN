@@ -80,7 +80,7 @@ class UsersImport implements ToCollection
                         }
                         if ($b == 1) {
                             $s .= '<td>'.$nombreCorto.'</td>';
-                            $s .= '<td>'.$grupo.'-2021</td>';
+                            $s .= '<td>'.$grupo.'-2022</td>';
                         } else {
                             $s .= '<td></td>';
                             $s .= '<td></td>';
